@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="1" total="1" passed="0">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="17986" started-at="2018-01-15T02:23:45Z" finished-at="2018-01-15T02:24:03Z">
+  <suite name="Default suite" duration-ms="22756" started-at="2018-01-15T23:35:16Z" finished-at="2018-01-15T23:35:39Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="17986" started-at="2018-01-15T02:23:45Z" finished-at="2018-01-15T02:24:03Z">
+    <test name="Default test" duration-ms="22756" started-at="2018-01-15T23:35:16Z" finished-at="2018-01-15T23:35:39Z">
       <class name="testcases.VerifyLoginPageReports">
-        <test-method status="PASS" signature="setUp()[pri:0, instance:testcases.VerifyLoginPageReports@7c16905e]" name="setUp" is-config="true" duration-ms="14366" started-at="2018-01-14T20:23:45Z" finished-at="2018-01-14T20:23:59Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:testcases.VerifyLoginPageReports@7c16905e]" name="setUp" is-config="true" duration-ms="17910" started-at="2018-01-15T17:35:16Z" finished-at="2018-01-15T17:35:34Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="FAIL" signature="testHomePage()[pri:0, instance:testcases.VerifyLoginPageReports@7c16905e]" name="testHomePage" duration-ms="1714" started-at="2018-01-14T20:23:59Z" finished-at="2018-01-14T20:24:01Z">
+        <test-method status="FAIL" signature="testHomePage()[pri:0, instance:testcases.VerifyLoginPageReports@7c16905e]" name="testHomePage" duration-ms="3016" started-at="2018-01-15T17:35:34Z" finished-at="2018-01-15T17:35:37Z">
           <exception class="java.lang.NullPointerException">
             <full-stacktrace>
               <![CDATA[java.lang.NullPointerException
@@ -47,7 +47,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testHomePage -->
-        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:testcases.VerifyLoginPageReports@7c16905e]" name="closeBrowser" is-config="true" duration-ms="1886" started-at="2018-01-14T20:24:01Z" finished-at="2018-01-14T20:24:03Z">
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:testcases.VerifyLoginPageReports@7c16905e]" name="closeBrowser" is-config="true" duration-ms="1830" started-at="2018-01-15T17:35:37Z" finished-at="2018-01-15T17:35:39Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeBrowser -->
